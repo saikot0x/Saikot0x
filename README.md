@@ -1,6 +1,6 @@
 <h1 align="center" ><b><i><font color="blue">👾Saikot0x</font></i></b></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=🌊+Sailing+the+Digital+Sea;💻+Hacker+%7C+Developer+%7C+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Sailing+the+Digital+Sea;Hacker+%7C+Developer+%7C+Explorer" alt="Typing Animation" />
 </p>
 
 <img src="https://github.com/Saikot0x/Saikot0x/blob/main/line.gif" height="20" width="100%">
@@ -8,7 +8,7 @@
 
 ---
 
-### Hi there ☠️, My code name is Saikot0x
+### Hi there ☠️, My code name is Md Saikot Mia
 
 
  - 👯 I’m looking to collaborate on <b>EveryOne</b><br>
