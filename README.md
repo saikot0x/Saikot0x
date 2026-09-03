@@ -1,6 +1,6 @@
 <h1 align="center" ><b><i><font color="blue">👾Saikot0x</font></i></b></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Sailing+the+Digital+Sea;Hacker+%7C+Developer+%7C+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=CST+Student;Cyber+Security+Learner;Networking+Enthusiast;Future+Cyber+Security+Professional;" alt="Typing Animation" />
 </p>
 
 <img src="https://github.com/Saikot0x/Saikot0x/blob/main/line.gif" height="20" width="100%">
@@ -19,7 +19,7 @@
  - 📫 How to reach me <b>......</b><br>
 
 <br clear="right"/>
-
+<!-- Hacker+%7C+Developer+%7C+Explorer -->
 <!-- ![](https://github.com/Mr-Universal0x/Mr-Universal0x/blob/main/download.jpg)-->
 
 <h2><b><i>📡Connect With Me</i></b></h2>
